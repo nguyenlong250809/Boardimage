@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1653494224 source:d:\01_c\sampleapp\test.c
+
+1653494212 source:d:\01_c\sampleapp\test2.c
+	<stdio.h>
+
+1653583359 source:d:\01_c\sampleapp\test3.c
+
+1653701918 source:d:\01_c\sampleapp\display_sizeof.c
+	<stdio.h>
+
+1653704696 source:d:\01_c\sampleapp\weeklypay.c
+	<stdio.h>
+
